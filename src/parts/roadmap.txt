@@ -1,0 +1,2 @@
+- create z80 cpu
+- get it up and going
